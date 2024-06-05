@@ -114,3 +114,26 @@ if uploaded_file is not None:
 ```
 streamlit run app.py
 ```
+### Dan Hasil run Silahkan pindah ke chrome untuk tampilan nya seperti gamabr di abawah ini :
+
+![uts citra 1](https://github.com/mullf/UTS_Pengolahan_Citra/assets/115521049/61267916-0be9-49bc-b02c-f3881677b6fb)
+
+### Silakahkan klik browse file dan pilih gambar yang akan di manipulasi 
+
+![uts citra 2](https://github.com/mullf/UTS_Pengolahan_Citra/assets/115521049/d2ff6f40-6512-4425-903f-fc9749a20400)
+
+#### *Gambar Original*
+
+![uts citra 3](https://github.com/mullf/UTS_Pengolahan_Citra/assets/115521049/73063c77-6262-41a0-bfe0-b8aa420a75f1)
+#### *RGB menjadi HSV*
+
+![uts citra 4](https://github.com/mullf/UTS_Pengolahan_Citra/assets/115521049/a6e9fc71-a00d-4147-a16d-fc95464ecce6)
+#### *hasil gambar menghitung Histogram*
+
+![uts citra 5](https://github.com/mullf/UTS_Pengolahan_Citra/assets/115521049/ff4d2690-47f1-4bc8-9fc8-78694217c95c)
+#### *hasil gambar mengatur Brignest dan Contras*
+
+![uts citra 6](https://github.com/mullf/UTS_Pengolahan_Citra/assets/115521049/a9060e7c-b7ce-487b-8134-c808cc4f69ab)
+#### *hasil gambar Contour*
+
+![uts citra 7](https://github.com/mullf/UTS_Pengolahan_Citra/assets/115521049/4fd68a45-1e81-49fb-85b7-f666bb65c2e6)
